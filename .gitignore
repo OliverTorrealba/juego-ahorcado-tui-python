@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos de guardado de partidas locales
+partida_guardada.json
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+
+# IDEs y editores
+.vscode/
+.idea/
